@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small steps to a bright future</title>
+    <link>p.nelzin.ru/</link>
+    <description>Recent content on Small steps to a bright future</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jan 2018 12:21:51 +0300</lastBuildDate>
+    
+	<atom:link href="p.nelzin.ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Starting fresh</title>
+      <link>p.nelzin.ru/posts/starting-fresh/</link>
+      <pubDate>Wed, 03 Jan 2018 12:21:51 +0300</pubDate>
+      
+      <guid>p.nelzin.ru/posts/starting-fresh/</guid>
+      <description>I’ve been wanting to write a bit more again, and decided that I need a new blog.
+So there you go, a new blog (powered by hugo, obviously), and new content coming soon!</description>
+    </item>
+    
+  </channel>
+</rss>
