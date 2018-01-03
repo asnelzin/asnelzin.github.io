@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>p.nelzin.ru/posts/starting-fresh/</loc>
+    <loc>http://p.nelzin.ru/posts/starting-fresh/</loc>
     <lastmod>2018-01-03T12:21:51+03:00</lastmod>
   </url>
   
   <url>
-    <loc>p.nelzin.ru/categories/</loc>
+    <loc>http://p.nelzin.ru/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>p.nelzin.ru/posts/</loc>
-    <lastmod>2018-01-03T12:21:51+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>p.nelzin.ru/</loc>
+    <loc>http://p.nelzin.ru/posts/</loc>
     <lastmod>2018-01-03T12:21:51+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>p.nelzin.ru/tags/</loc>
+    <loc>http://p.nelzin.ru/</loc>
+    <lastmod>2018-01-03T12:21:51+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://p.nelzin.ru/tags/</loc>
     <priority>0</priority>
   </url>
   
